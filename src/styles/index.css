@@ -1,12 +1,9 @@
+.luz{width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.glow{
+    box-shadow: 2px 2px 9px 4px rgb(208, 223, 168);
+}
